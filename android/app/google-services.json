@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "455902282247",
+    "project_id": "chatmobileappproject",
+    "storage_bucket": "chatmobileappproject.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:455902282247:android:34e334891e42e00e5a60a2",
+        "android_client_info": {
+          "package_name": "com.example.moapp_chatting"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "455902282247-jq7qjpdeb2ps290bb911uc85rehg4a9r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBa3fVuQeH8V6a8t6UKseHZh9IkhAVkc-s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "455902282247-jq7qjpdeb2ps290bb911uc85rehg4a9r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:455902282247:android:424c50673738925a5a60a2",
+        "android_client_info": {
+          "package_name": "com.example.mobileteamproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "455902282247-jq7qjpdeb2ps290bb911uc85rehg4a9r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBa3fVuQeH8V6a8t6UKseHZh9IkhAVkc-s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "455902282247-jq7qjpdeb2ps290bb911uc85rehg4a9r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
